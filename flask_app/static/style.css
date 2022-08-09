@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(93, 126, 131);
+}
+
+.name {
+    text-align: center;
+    color: black;
+    font-size: 4em;
+    text-shadow: 2px 2px 5px cadetblue;
+    background-color: rgba(237, 238, 237, 0.7);
+    width:25%;
+    margin-left: 38.5%;
+    border-radius: 1em;
+    text-decoration: underline;
+    border-style: solid;
+    border-color: black;
+}
+a {
+    color: white;
+}
+
+.links{
+    color: black;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(20, 42, 238, 0.5);
+    height:10%;
+    padding: 0.75em;
+    border-radius: 1em;
+  }
+
+li{
+    display: inline;
+    border-color:rgba(9, 5, 250, 0.7);
+    box-shadow: 2px 2px 1px rgb(116, 178, 204);
+    border-style: groove;
+    padding: 0.5em;
+    margin-left: 1.5em;
+    border-radius: 1em;
+    font-weight: bold;
+    
+}
+
+.bio{
+    background-color: rgb(237, 238, 237, 0.7); 
+    text-align: center;
+    width:40%;
+    margin-left:29%;
+    padding:2%;
+    font-size: x-large;
+    border-style: solid;
+    border-color: black;
+    border-radius: 1em;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
